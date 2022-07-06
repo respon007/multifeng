@@ -11,6 +11,11 @@ public class Book {
     private String author;
     private Float price;
 
+    /**
+     * 我练习一下提交
+     * @return
+     */
+
     @Override
     public String toString() {
         return "Book{" +
